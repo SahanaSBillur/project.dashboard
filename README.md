@@ -16,3 +16,6 @@ Power BI Visuals – Used charts like bar charts, pie charts, donut charts, gaug
 business problem 
 goal of dashboard
 walk through of visuals
+
+Dashboard look like
+Example :https://github.com/SahanaSBillur/project.dashboard/blob/main/min%20project.png
